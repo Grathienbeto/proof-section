@@ -12,6 +12,10 @@ module.exports = {
     fontFamily: {
       league: ["League Spartan"],
     },
+    backgroundImage: {
+      "hero-pattern": "url('./images/bg-patter-top-desktop.svg')",
+      "footer-texture": "url('./images/bg-patter-bottom-desktop.svg')",
+    },
   },
   plugins: [],
 };

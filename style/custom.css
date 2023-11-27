@@ -1,0 +1,9 @@
+#top-container {
+  background-image: url("./../images/bg-pattern-top-desktop.svg");
+  background-repeat: no-repeat;
+}
+
+#bottom-container {
+  background-image: url("./../images/bg-pattern-bottom-desktop.svg");
+  background-repeat: no-repeat;
+}
